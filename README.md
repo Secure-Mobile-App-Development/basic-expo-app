@@ -26,7 +26,7 @@ Following are the input cases
 | **Page when Passwords dont match** | **When all details are filled correctly** |
 
 ## Use Cases
-The React Native Registration Form [batch] can be used in various scenarios where user registration is required. Some common use cases include:
+The React Native Registration Form can be used in various scenarios where user registration is required. Some common use cases include:
 
 1. Mobile applications that require user registration or account creation.
 2. Sign-up forms for online services, platforms, or marketplaces.
